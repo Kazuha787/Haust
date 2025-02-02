@@ -16,8 +16,8 @@ Automated NFT Minitng with Nodejs bot, managing multiple EVM Wallet accounts to 
 
 Before running the script, ensure you have Python and Nodejs installed on your machine. Then, install the necessary Python packages using:
 
-1. ```
-2. "git clone https://github.com/Kazuha787)Haust.git" ```
+1. ``` git clone https://github.com/Kazuha787/Haust.git
+2.  ```
 3. 
 4. ```
 5. cd Haust
