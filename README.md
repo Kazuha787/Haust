@@ -35,9 +35,4 @@ Before running the script, ensure you have Python and Nodejs installed on your m
 # NstProxy - https://app.nstproxy.com/register?i=SkKXHm
 
 
-## FOR ANY KIND OF HELP CONTACT : ` 0xphatom ` on Discord  https://discord.com/users/979641024215416842
 
-# Socials 
-
-# Telegram - [https://t.me/phantomoalpha](https://t.me/phantomoalpha)
-# Discord - [https://discord.gg/pGJSPtp9zz](https://discord.gg/pGJSPtp9zz)
