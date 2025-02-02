@@ -16,15 +16,23 @@ Automated NFT Minitng with Nodejs bot, managing multiple EVM Wallet accounts to 
 
 Before running the script, ensure you have Python and Nodejs installed on your machine. Then, install the necessary Python packages using:
 
-1. ``` "git clone https://github.com/Kazuha787)Haust.git" ```
-2. ``` cd Haust ```
-3. ``` pip install -r requirements.txt ```
-4. ``` npm install```
-5. Add multiple proxies in the `proxy.txt` file you can add 1000+ proxy !! Formate # `HTTP://username:pass@ip:port`.
-6. Generate Private keys `keygen.py` in line `19` base on the choice you can write how many private keys you wanted to generated. // By default value is 1000.
-7. To run python file run `python keygen.py`
-8. Add the wallet address in the `address.txt file` in order to claim faucet command by `node index.js`
-9. Once all wallets are processed run `mint.js file` in order to mint the NFT command `node mint.js`
+1. ```
+2. "git clone https://github.com/Kazuha787)Haust.git" ```
+3. 
+4. ```
+5. cd Haust
+6. ```
+7. ```
+8. pip install -r requirements.txt
+9. ```
+10. ```
+11.  npm install
+12.  ```
+13. Add multiple proxies in the `proxy.txt` file you can add 1000+ proxy !! Formate # `HTTP://username:pass@ip:port`.
+14. Generate Private keys `keygen.py` in line `19` base on the choice you can write how many private keys you wanted to generated. // By default value is 1000.
+15. To run python file run `python keygen.py`
+16. Add the wallet address in the `address.txt file` in order to claim faucet command by `node index.js`
+17. Once all wallets are processed run `mint.js file` in order to mint the NFT command `node mint.js`
 
 ## Requirements
 
